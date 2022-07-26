@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Music Mint Nfts",
     description:
-      "Our goal is to change endangered animal species' direction and prevent them from going extinct due to human enroachment and poaching. We aim to connect individuals worldwide and educate our community about animals.",
+      "Our goalis to bring music to the world. Still in production",
     image: "https://lh3.googleusercontent.com/IGtpPaHk-eppjfKCLOnboPMrtwT8sFowkDlF9BEiAgnYQYSObMua-qarPahBPy7q7o9CmK6ScfybikzeuSkY2WJoTYYf7gqbNI3F9TA=w309",
     tags: ["Nft", "Music Nft"],
     source: "#",
