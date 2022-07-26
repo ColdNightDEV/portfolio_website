@@ -1,6 +1,3 @@
-import {lp1} from './Assets/lp1.jpg'
-import {lp2} from './Assets/lp2.png'
-
 export const projects = [
   {
     title: "Music Mint Nfts",
